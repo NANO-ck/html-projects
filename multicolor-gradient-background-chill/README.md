@@ -1,26 +1,9 @@
 <h1>Here's a preview of the HTML page: </h1>
 
-<!DOCTYPE html>
-<html lang="fr">
-  <head>
-    <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <!-- Favicon -->
-  <link rel="icon" href="https://media.discordapp.net/attachments/800052087136190467/815652031041110126/circle-cropped.png?width=418&height=418">
-  <!-- Montserrat Google Font -->
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap" rel="stylesheet">
-  <link id="favicon" rel="icon" href="https://media.discordapp.net/attachments/800052087136190467/815652031041110126/circle-cropped.png?width=418&height=418" type="image/x-icon"/>
-
-  <title>NANO®</title>
-
-  <meta property="og:type" content="website">
-  <meta property="og:author" content="NANO®">
-  <meta property="og:title" content="NANO® | Official website">
-  <meta property="og:description" content="Official website of NANO, to keep in touch or keep track of his projects">
-  <meta property="og:url" content="http://n4n0.glitch.me">
-  <meta property="og:image" content="https://media.discordapp.net/attachments/800052087136190467/815652031041110126/circle-cropped.png?width=418&height=418">
-    <style type="text/css">
+<main>
+  <a href="https://n4n0.glitch.me">NANO</a>
+</main>
+  <style type="text/css">
       @import url("https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800;900&display=swap");
       body{
         background:linear-gradient(-60deg,#ff3300,#FF6600,#ee7752,#e73c7e,#23a6d5,#23d5ab,#00ff00,#ffff00);
@@ -58,10 +41,4 @@
   transition: 0.2s all;
       }
     </style>
-  </head>
-  <body>
-    <main>
-      <a href="https://n4n0.glitch.me">NANO</a>
-    </main>
-  </body>
-</html>
+
